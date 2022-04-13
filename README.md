@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Julian-Razinkov
 - 👀 I’m interested in backend development with node.js
-- 🌱 I’m currently learning typescript, architectural patterns and few  more things
+- 🌱 I’m currently learning AWS, architectural patterns and few  more things
 - 💞️ I’m looking to collaborate on interesting projects where i can learn new things and help develop better product
 - 📫 How to reach me - email: julian.razinkov21@gmail.com
 
