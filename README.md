@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Julian-Razinkov
-- 👀 I’m interested in backend development with node.js
-- 🌱 I’m currently learning AWS, software design patterns and few  more things
-- 💞️ I’m looking to collaborate on interesting projects where i can learn new things and help develop better product
-- 📫 How to reach me - email: julian.razinkov21@gmail.com
+- 👀 I have most expirience in Full-stack development with Node.js and React
+- 🌱 I’m thriving to learn constantly and grow as a developer, because it's my passion
+- 💞️ I’m looking to collaborate on interesting projects where I can learn new things and help develop better product
+- 📫 Feel free to contact me at julian.razinkov21@gmail.com
 
 
 <!---
